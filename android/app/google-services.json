@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1055877063984",
+    "project_id": "home-doctor-chaang",
+    "storage_bucket": "home-doctor-chaang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055877063984:android:13fd4907928815a2af54f5",
+        "android_client_info": {
+          "package_name": "com.example.home_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055877063984-94gigi7kacvetcs5aevfno0bn7khpd3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfHGeUSP_6zAuzjUz-uBPTl9uxTQ_YC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055877063984-94gigi7kacvetcs5aevfno0bn7khpd3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055877063984-298ph70pg09qkq1amv6pgenf5ci8hs39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeDoctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
